@@ -40,3 +40,16 @@ This is an example exercise.
 ```{python}
 
 ```
+
+---
+
+## Extending and Manipulating Data
+
+```yaml
+type: VideoExercise
+key: 7299481b7e
+xp: 50
+```
+
+`@projector_key`
+f0eff25884c8042da5156dac05e75d23
